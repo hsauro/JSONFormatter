@@ -6,3 +6,5 @@ Most editors will not autoamtically pretty-format a json file when loaded unless
 I have provied a binaries in the release section. At the moment its only for windows. 
 
 The source code depends on SynEdit component (unfortunately there isn't an equivalent for the Mac) which you can get via getit package manager. 
+
+Note the formatter is a single exe file, it doesn't require an installer. Just copy the exe in the release and put it somewhere convenient. The run.
